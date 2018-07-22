@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 529551a286b065da9123f4b8bd5a0427c921e7fc
 <div align="center">
 
 <h1 align="center">Python STL</h1>
@@ -30,6 +33,7 @@
     4. [Ipc Trainers-IPCTRAIN]()
     5. [Chef Subseq-CHEFCODE]()
 6. [Reference]()
+<<<<<<< HEAD
 =======
 <div align="center">
 
@@ -63,3 +67,5 @@
     5. [Chef Subseq-CHEFCODE]()
 6. [Reference]()
 >>>>>>> 6181f586e6c7d41928add4421366a9e193e3e23a
+=======
+>>>>>>> 529551a286b065da9123f4b8bd5a0427c921e7fc
